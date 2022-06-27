@@ -16,19 +16,19 @@
   
   <div class="form-group" style="margin-bottom:20px ;">
     <label for="exampleInputPassword1">Student Id</label>
-    <input type="text" class="form-control" name="student-id" id="exampleInputPassword1" placeholder="Student Id">
+    <input type="text" class="form-control" name="student_id" id="exampleInputPassword1" placeholder="Student Id">
   </div>
   <div class="form-group" style="margin-bottom:20px ;">
     <label for="exampleInputPassword1">First Name</label>
-    <input type="text" class="form-control" name="first-name" id="exampleInputPassword1" placeholder="First Name">
+    <input type="text" class="form-control" name="first_name" id="exampleInputPassword1" placeholder="First Name">
   </div>
   <div class="form-group" style="margin-bottom:20px ;">
     <label for="exampleInputPassword1">Last Name</label>
-    <input type="text" class="form-control" name="last-name" id="exampleInputPassword1" placeholder="Last Name">
+    <input type="text" class="form-control" name="last_name" id="exampleInputPassword1" placeholder="Last Name">
   </div>
   <div class="form-group" style="margin-bottom:20px ;">
     <label for="exampleInputPassword1">Date Of Birth</label>
-    <input type="text" class="form-control" name="date-of-birth" id="exampleInputPassword1" placeholder="Date Of Birth">
+    <input type="text" class="form-control" name="date_of_birth" id="exampleInputPassword1" placeholder="Date Of Birth">
   </div>
   <div class="form-group" style="margin-bottom:20px ;">
     <label for="exampleInputPassword1">Email</label>
