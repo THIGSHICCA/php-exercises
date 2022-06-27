@@ -11,7 +11,7 @@
 <body>
 
 <div class="container" style="background-color:rgb(249, 192, 173) ;">
-<form >
+<form action="insert-students-data.php" method="post">
     <h1 style="text-align:center ;">Student Registration</h1>
   
   <div class="form-group" style="margin-bottom:20px ;">
